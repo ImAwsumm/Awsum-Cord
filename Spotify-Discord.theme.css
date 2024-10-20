@@ -12,8 +12,8 @@
 
 :root {
     /* APP BACKGROUND COLORS */
-    --app-background: hsl(0,0%,0%);
-    --app-foreground: hsl(0,0%,7%);
+    --app-background: hsl(0,0%,1%);
+    --app-foreground: hsl(0,0%,8%);
 
     /* APP CARD SETTINGS */
     --app-card-radius: 8px;
@@ -29,42 +29,42 @@
     --header-bar-color: hsl(0,0%,13%);
 
     /* ACCENT HSL AND TEXT COLOR SETTINGS */
-    --accent-hue: 141;
-    --accent-saturation: 72.9%;
-    --accent-lightness: 42%;
+    --accent-hue: 140;
+    --accent-saturation: 70%;
+    --accent-lightness: 40%;
     --accent-text-color: hsl(0,0%,6%);
 
     /* ALERT HSL AND TEXT COLOR SETTINGS*/
     --alert-hue: 0;
     --alert-saturation: 85%;
-    --alert-lightness: 61%;
+    --alert-lightness: 68%;
     --alert-text-color: hsl(0,0%,0%);
 
     /* LIST & MENU ITEM SETTINGS */
-    --background-tinted-hover: hsla(0,0%,100%,0.07);
-    --background-tinted-active: hsla(0,0%,100%,0.11);
+    --background-tinted-hover: hsla(0,0%,100%,0.10);
+    --background-tinted-active: hsla(0,0%,100%,0.10);
     --background-tinted-highlight: hsla(0,0%,100%,0.17);
     --background-tinted-dark: hsla(0,0%,0%,0.23);
 
     --menu-text-color: hsl(0,0%,85%);
-    --menu-item-radius: 6px;
+    --menu-item-radius: 8px;
 
     /* CARD SETTINGS - DIFFERENT FROM APP CARD SETTINGS */
     --card-color: hsl(0,0%,10%);
 	--card-color-hover: hsl(0,0%,14%);
     --card-color-active: hsl(0,0%,22%);
-    --card-radius: 6px;
+    --card-radius: 8px;
     --card-border-color: hsl(0,0%,19%);
 
     /* BUTTON SETTINGS */
-    --button-height: 36px;
-    --button-padding: 0 18px;
+    --button-height: 40px;
+    --button-padding: 0 20px;
 
     /* POPOUT AND MODAL SETTINGS */
     --popout-color: hsl(0,0%,16%);
     --popout-color-alt: hsl(0,0%,11%);
 	--popout-radius: 6px;
-	--popout-radius-big: 10px;
+	--popout-radius-big: 12px;
 
     /* INPUT SETTINGS */
     --input-height: 36px;
