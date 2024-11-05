@@ -25,14 +25,14 @@
     --app-bar-size: 80px;
 
     /* HEADER BAR SETTINGS */
-    --header-bar-height: 56px;
+    --header-bar-height: 54px;
     --header-bar-color: hsl(0,0%,13%);
 
     /* ACCENT HSL AND TEXT COLOR SETTINGS */
     --accent-hue: 140;
-    --accent-saturation: 70%;
-    --accent-lightness: 40%;
-    --accent-text-color: hsl(0,0%,6%);
+    --accent-saturation: 50%;
+    --accent-lightness: 30%;
+    --accent-text-color: hsl(0,0%,7%);
 
     /* ALERT HSL AND TEXT COLOR SETTINGS*/
     --alert-hue: 0;
@@ -87,8 +87,8 @@
     --message-color-hover: hsl(0,0%,9%);
 
     /* SLIDER SETTINGS */
-    --slider-color: hsl(0,0%,70%);
-	--slider-background: hsl(0,0%,26%);
+    --slider-color: hsl(0,0%,65%);
+	--slider-background: hsl(0,0%,16%);
 
     /* SCROLLBAR SETTINGS */
     --scrollbar-width: 12px;
