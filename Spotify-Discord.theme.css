@@ -61,14 +61,14 @@
     --button-padding: 0 20px;
 
     /* POPOUT AND MODAL SETTINGS */
-    --popout-color: hsl(0,0%,16%);
-    --popout-color-alt: hsl(0,0%,11%);
-	--popout-radius: 6px;
-	--popout-radius-big: 12px;
+    --popout-color: hsl(0,0%,26%);
+    --popout-color-alt: hsl(0,0%,16%);
+	--popout-radius: 7px;
+	--popout-radius-big: 13px;
 
     /* INPUT SETTINGS */
-    --input-height: 36px;
-    --input-padding: 0 12px;
+    --input-height: 38px;
+    --input-padding: 1 16px;
     --input-color: hsla(0,0%,100%,0.09);
     --input-radius: 4px;
     --input-border-color: hsl(0,0%,33%);
@@ -91,8 +91,9 @@
 	--slider-background: hsl(0,0%,16%);
 
     /* SCROLLBAR SETTINGS */
-    --scrollbar-width: 12px;
-    --scrollbar-color: hsl(0,0%,35%);
-    --scrollbar-hover-color: hsl(0,0%,49%);
-    --scrollbar-active-color: hsl(0,0%,58%);
+	/* I (ImAwsum) removed the scrollbar because it's pretty much useless with other scrolling methods*/
+    /* --scrollbar-width: 0px;
+    /* --scrollbar-color: hsl(0,0%,35%);*/
+    /* --scrollbar-hover-color: hsl(0,0%,49%);*/
+    /* --scrollbar-active-color: hsl(0,0%,58%);*/
 }
