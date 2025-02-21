@@ -1,10 +1,10 @@
 ## Only minor adjustments were made
- I didn't do much since the theme was very good already
+ I didn't do much since the theme was very good already and I've been using it for more than a year *today is 2/21/2025*
 
  
-checkout the original project
+checkout the original project 
 
-This is a fork from 
+This is a fork from...
 
 # Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### Combine Discord and Spotify into one
