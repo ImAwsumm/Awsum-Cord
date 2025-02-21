@@ -1,3 +1,7 @@
+## Only minor adjustments 
+
+This is a fork from 
+
 # Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### Combine Discord and Spotify into one
 <hr>
