@@ -1,8 +1,8 @@
 {
     "name": "AwsumCord",
     "description": "Combine Discord and Spotify into one",
-    "version": "1.4.2",
+    "version": "6.2",
     "author": "CapnKitten",
-    "theme": "Spotify-Discord.theme.css",
+    "theme": "AwsumCord-version-6.2.css",
     "license": "MIT"
 }
