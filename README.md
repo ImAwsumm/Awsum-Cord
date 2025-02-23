@@ -4,7 +4,7 @@
  
 checkout the original project 
 
-This is a fork from...
+This is a fork from capnkitten
 
 # Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### Combine Discord and Spotify into one
